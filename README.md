@@ -1,4 +1,9 @@
 # VipraVersion1
+
+# Description
+• This is a contact manager program built as a part of an interview task
+•	The program should ideally be able to create, edit & delete the contacts and save the same in a database
+
 # Technologies Used:
 * NodeJS
 * ExpressJS
@@ -11,16 +16,25 @@
 # DataBase
 *  MongoDB
 
+
 # Installation
-* npm install
-* node server.js
+
+* npm install - To install Node Package Manager for Node Modules
+* node server.js - To run the code
+
  # Test
  * ./node_modules/.bin/mocha
 
-# Description
- * Creating this project for my Interview. Subject of the project is Contact Form, adding contacts to the list,deleting the contacts list with Name,Email, Phone number and when you add the new contact, the contact will be saved to the contact list.
- * We can delete the contact from the list like when you click on delete icon window will pop up "Are you sure you want to delete the contact?" then if you want to delete the contact
-you can delete it.
- * We can edit the contact by editing the name,email,phone number if you think you want any changes to make.
+# Author
+Anusha Sharma
+anushasharma.g@gmail.com
+
+
+
+
+
+	
+
+
  
 
