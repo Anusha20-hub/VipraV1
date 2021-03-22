@@ -5,6 +5,7 @@
 * Javascript
 * Mongoose
 * express-handlebars
+* mocha
 
 
 # DataBase
@@ -13,6 +14,8 @@
 # Installation
 * npm install
 * node server.js
+ # Test
+ * ./node_modules/.bin/mocha
 
 # Description
  * Creating this project for my Interview. Subject of the project is Contact Form, adding contacts to the list,deleting the contacts list with Name,Email, Phone number and when you add the new contact, the contact will be saved to the contact list.
